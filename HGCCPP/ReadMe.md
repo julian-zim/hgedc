@@ -1,0 +1,1 @@
+Execute ./scripts/do.sh
